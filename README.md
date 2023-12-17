@@ -57,7 +57,7 @@ If the desired time zone is not available, you can manually set the time zone us
 
 3. Verify that you have set the timezone correctly
 
-`sudo systemsetup -gettimezone`
+    `sudo systemsetup -gettimezone`
 
 # What's Working?
 - [x] Intel HD 520 Graphics (incuding graphics acceleration)
